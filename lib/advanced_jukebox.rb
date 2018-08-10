@@ -7,7 +7,7 @@ my_songs = {
 /home/carowink91/jukebox-cli-dc-web-082718/Desktop/Dev/jukebox-cli/audio/Emerald-Park/02.mp3 => '< path to this directory >/jukebox-cli/audio/Emerald-Park/02.mp3',
 /home/carowink91/jukebox-cli-dc-web-082718/Desktop/Dev/jukebox-cli/audio/Emerald-Park/03.mp3 =>  '< path to this directory >/jukebox-cli/audio/Emerald-Park/03.mp3',
 /home/carowink91/jukebox-cli-dc-web-082718/Desktop/Dev/jukebox-cli/audio/Emerald-Park/04.mp3 => '< path to this directory >/jukebox-cli/audio/Emerald-Park/04.mp3',
-"Wolf" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/05.mp3',
+/home/carowink91/jukebox-cli-dc-web-082718/Desktop/Dev/jukebox-cli/audio/Emerald-Park/05.mp3 => '< path to this directory >/jukebox-cli/audio/Emerald-Park/05.mp3',
 "Blue" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/06.mp3',
 "Graduation Failed" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/07.mp3'
 }
