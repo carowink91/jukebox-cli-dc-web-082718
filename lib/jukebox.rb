@@ -59,14 +59,13 @@ def run(songs)
   user_entry = gets.chomp
 
   command = user_entry
-    if command == "list"
-      list(songs)
-    elsif command == "play"
-      play(songs)
-    elsif command == "help"
-      help
-    elsif command == "exit"
-      exit_jukebox
-    end
+  if command == "list"
+    list(songs)
+  elsif command == "play"
+    play(songs)
+  elsif command == "help"
+    help
+  elsif command == "exit"
+    exit_jukebox
   end
 end
