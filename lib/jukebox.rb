@@ -59,7 +59,6 @@ def run(songs)
   user_entry = gets.chomp
 
   command = user_entry
-  until command == "exit"
     if command == "list"
       list(songs)
     elsif command == "play"
